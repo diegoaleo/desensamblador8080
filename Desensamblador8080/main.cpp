@@ -47,7 +47,7 @@ int desensamblar8080 (unsigned int instrucciones[], int cp){ //cp = contador pro
         case 0x09: cout << "DAD B" << endl; break;
         case 0x0A: cout << "LDAX B" << endl; break;
         case 0x0B: cout << "DCX B" << endl; break;
-        case 0x0C: cout << "A" << endl; break;
+        case 0x0C: cout << "" << endl; break;
         case 0x0D: cout << "1" << endl; break;
         case 0x0E: cout << "A" << endl; break;
         case 0x0F: cout << "1" << endl; break;
