@@ -23,7 +23,7 @@ int desensamblar8080 (unsigned int instrucciones[], int cp){ //cp = contador pro
 
     unsigned int* instr = &instrucciones[cp];
 
-    int opbytes = 1; // se refiere al tamaño de bytes de una instrucci—n
+    int opbytes = 1; // se refiere al tama–o de bytes de una instrucci—n
 
     /**/
 
