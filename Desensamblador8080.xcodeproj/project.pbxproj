@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		8E01517E21E9F72D0049FA7A /* Desensamblador8080 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Desensamblador8080; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E50FD6421E9F955005B2EE8 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8E50FD6421E9F955005B2EE8 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
